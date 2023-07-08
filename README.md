@@ -12,7 +12,7 @@ Programming Language : Python
 Business Performance Analysis is fundamental to understand the business current condition. It is performed to identify the advantages and disadvantages of the company and putting it into consideration in order to handle it. In hotel business, it is used to indetify customer behaviours. One way to perform it is using Data Visualization from historical data to gather insights that might be useful for the business team. These insights is gathered by doing Exploratory Data Analysis and visualize them into graphs and figures to make it easier to understand them. In this project, the focus will be in analyzing the key factors of booking cancellation of customer.   
 
 ## Data Pre-Processing
-The dataset is consisted of 29 columns & 119390 rows.
+The dataset is consisted of 29 columns & 119390 rows. The data is from 2017-2019.
 
 Table 1. Data Pre-Processing Treatment <br>
 **No**  |     **Treatment**      |    **Findings**     |    **Actions**     |
@@ -26,6 +26,6 @@ Table 1. Data Pre-Processing Treatment <br>
 This analysis is performed to understand the booking pattern based on hotel type. The increase of booking will also increase potential income for the company. Thus, it is very important to understand the pattern.
 
 ![booking](assets/booking_order.png)
-<div align="center"> Fig 4. Monthly Booking Order Pattern </div>
-Fig 1. shows a positive trend of _Monthly Active User_ from 2016-2018. The increase of MAU in 2018 is not as high as in 2017.
+<div align="center"> Fig 4. Monthly Booking Order </div>
+Fig 1. shows that both hotel have a similar pattern, which increase in National Holiday Season (Mid Season & Year End). Mid Season is in May-July when the student at school and college is having semester break and also Ramadhan month for the Moslem. Meanwhile, Year End is in November-December which are Christmas and New Year holiday to gather with the family. Both hotel lowest month is in March. Throughout the year, City Hotel has a much bigger booking than Resort Hotel.  
 
