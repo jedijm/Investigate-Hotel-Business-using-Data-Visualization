@@ -33,7 +33,7 @@ Fig 1. shows that both hotel have a similar pattern, which increase in National 
 
 ### Impact Analysis of Stay Duration on Hotel Bookings Cancellation Rate
 
-![city](assets/city_ratio.png)
+![city](assets/city_ratio.png) 
 <div align="center"> Fig 2. City Hotel Bookings Cancellation Ratio </div>
 
 ![resort](assets/resort_ratio.png)
