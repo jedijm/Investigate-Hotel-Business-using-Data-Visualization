@@ -23,5 +23,9 @@ Table 1. Data Pre-Processing Treatment <br>
 
 ## Data Analysis
 ### Monthly Hotel Booking Analysis Based on Hotel Type
-This analysis is performed to understand the booking pattern based on hotel type. It is used to understand the monthly booking 
+This analysis is performed to understand the booking pattern based on hotel type. The increase of booking will also increase potential income for the company. Thus, it is very important to understand the pattern.
+
+![booking](assets/booking_order.png)
+<div align="center"> Fig 4. Monthly Booking Order Pattern </div>
+Fig 1. shows a positive trend of _Monthly Active User_ from 2016-2018. The increase of MAU in 2018 is not as high as in 2017.
 
