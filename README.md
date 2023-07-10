@@ -12,7 +12,7 @@ Programming Language : Python
 Business Performance Analysis is fundamental to understand the business current condition. It is performed to identify the advantages and disadvantages of the company and putting it into consideration in order to handle it. In hotel business, it is used to indetify customer behaviours. One way to perform it is using Data Visualization from historical data to gather insights that might be useful for the business team. These insights is gathered by doing Exploratory Data Analysis and visualize them into graphs and figures to make it easier to understand them. In this project, the focus will be in analyzing the key factors of booking cancellation of customer.   
 
 ## Data Pre-Processing
-The dataset is consisted of 29 columns & 119390 rows. The data is from 2017-2019.
+The dataset is consisted of 29 columns & 119390 rows. It is hotel business data from 2017-2019.
 
 Table 1. Data Pre-Processing Treatment <br>
 **No**  |     **Treatment**      |    **Findings**     |    **Actions**     |
@@ -33,10 +33,15 @@ Fig 1. shows that both hotel have a similar pattern, which increase in National 
 
 ### Impact Analysis of Stay Duration on Hotel Bookings Cancellation Rate
 
-![city](assets/city_ratio.png) 
-<div align="center"> Fig 2. City Hotel Bookings Cancellation Ratio </div>
+<p align="center">
+  <img src= "https://github.com/jedijm/Investigate-Hotel-Business-using-Data-Visualization/blob/main/assets/city_ratio.png"> <br>
+Fig 2. City Hotel Bookings Cancellation Ratio
+</p>
+Fig 2 describes the city hotel booking cancellation ratio. 
 
-![resort](assets/resort_ratio.png)
+<p align="center">
+  <img src= "https://github.com/jedijm/Investigate-Hotel-Business-using-Data-Visualization/blob/main/assets/resort_ratio.png">
+</p>
 <div align="center"> Fig 3. Resort Hotel Bookings Cancellation Ratio </div>
 
 ![staying](assets/staying_duration.png)
