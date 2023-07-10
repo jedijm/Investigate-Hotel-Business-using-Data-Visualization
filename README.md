@@ -1,6 +1,6 @@
 # Investigate Hotel Business using Data Visualization
 
-Dataset : Provided by Rakamin Academy 
+Dataset : Hotel Business Data Provided by Rakamin Academy 
 <br>
 Tools : Jupyter Notebook 
 <br>
@@ -42,18 +42,17 @@ Fig 3. Resort Hotel Bookings Cancellation Ratio
 </p>
 
 <div align="justify"> Fig 2 & Fig 3 describe the cancellation ratio based on hotel. Both hotel show the cancellation percentage is lower than 50%. Resort hotel cancellation rate is 27.8% and City Hotel is higher at 41.8% which is considered high. The high cancellation rate in City Hotel is caused by high number of bookings also. Due to the close location from the residential area in the city, customer tends to book in City Hotel without long preparation and planning. On the opposite, Resort Hotel booking is usually planned well because of the distance to travel. </div>
-
+<br>
 ![staying](assets/staying_duration.png)
-<div align="center"> Fig 4. Staying Duration Impact to Booking Cancellation Rate </div>
+<div align="center"> Fig 4. Staying Duration Impact to Booking Cancellation Rates </div>
 
 <div align="justify"> Fig 4 shows the impact of staying duration to the booking cancellation rate based on each hotel types. Staying duration is categorized into 5 categories. Both hotels shows a similar pattern which is the longer stay duration, the higher cancellation rate. Except for the Resort Hotel with >4 weeks staying duration that has lower cancellation rate. The staying duration for <1 week is the least cancellation rate in both Hotels. City Hotel customer with >4 weeks staying duration has the highest cancellation rate for 90.9% which needs to be analyzed more to find the causing factors. The cancellation rate is highly influential to the business, thus it is necessary to improve this matter. </div> 
-<br>
 
 ## Impact Analysis of Lead Time on Hotel Bookings Cancellation Rates
 
 <p align="center">
   <img src= "https://github.com/jedijm/Investigate-Hotel-Business-using-Data-Visualization/blob/main/assets/lead_time.png"> <br>
-Fig 5. Lead Time Impact on Hotel Bookings Cancellation Rate
+Fig 5. Lead Time Impact on Hotel Bookings Cancellation Rates
 </p>
 
 <div align="justify">
