@@ -62,7 +62,7 @@ Fig 5. Lead Time Impact on Hotel Bookings Cancellation Rate
 
 # Summary
 <div align="justify">
-  - Both hotels have a similar monthly booking pattern which increases in May-July (Mid Season) & November-December (Year End) that related to National Holiday Season. City Hotel booking order is higher than Resort Hotel's throughout the year.
-  - Staying duration and booking cancellation rate have a positive relation in both hotels except for Resort Hotel which has less cancellation in booking with more than 4 weeks duration. 
+  - Both hotels have a similar monthly booking pattern which increases in May-July (Mid Season) & November-December (Year End) that related to National Holiday Season. City Hotel booking order is higher than Resort Hotel's throughout the year. <br>
+  - Staying duration and booking cancellation rate have a positive relation in both hotels except for Resort Hotel which has less cancellation in booking with more than 4 weeks duration. <br>
   - Lead time has a positive trend of booking cancellation rate for City Hotel with the peak at 12 months for more than 80%. Conversely, Lead time shows no significant influence to the booking cancellation rate of Resort Hotel because it varies without consistent pattern. 
 </div>
