@@ -36,7 +36,6 @@ This analysis is performed to understand the booking pattern based on hotel type
   <img src= "https://github.com/jedijm/Investigate-Hotel-Business-using-Data-Visualization/blob/main/assets/city_ratio.png"> <br>
 Fig 2. City Hotel Bookings Cancellation Ratio
 </p>
-<br>
 <p align="center">
   <img src= "https://github.com/jedijm/Investigate-Hotel-Business-using-Data-Visualization/blob/main/assets/resort_ratio.png"> <br>
 Fig 3. Resort Hotel Bookings Cancellation Ratio 
@@ -47,7 +46,8 @@ Fig 3. Resort Hotel Bookings Cancellation Ratio
 ![staying](assets/staying_duration.png)
 <div align="center"> Fig 4. Staying Duration Impact to Booking Cancellation Rate </div>
 
-<div align="justify"> Fig 4 shows the impact of staying duration to the booking cancellation rate based on each hotel types. Staying duration is categorized into 5 categories. Both hotels shows a similar pattern which is the longer stay duration, the higher cancellation rate. Except for the Resort Hotel with >4 weeks staying duration that has lower cancellation rate. The staying duration for <1 week is the least cancellation rate in both Hotels. City Hotel customer with >4 weeks staying duration has the highest cancellation rate for 90.9% which needs to be analyzed more to find the causing factors. The cancellation rate is highly influential to the business, thus it is necessary to improve this matter. </div>
+<div align="justify"> Fig 4 shows the impact of staying duration to the booking cancellation rate based on each hotel types. Staying duration is categorized into 5 categories. Both hotels shows a similar pattern which is the longer stay duration, the higher cancellation rate. Except for the Resort Hotel with >4 weeks staying duration that has lower cancellation rate. The staying duration for <1 week is the least cancellation rate in both Hotels. City Hotel customer with >4 weeks staying duration has the highest cancellation rate for 90.9% which needs to be analyzed more to find the causing factors. The cancellation rate is highly influential to the business, thus it is necessary to improve this matter. </div> 
+<br>
 
 ## Impact Analysis of Lead Time on Hotel Bookings Cancellation Rates
 
