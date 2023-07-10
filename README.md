@@ -43,7 +43,9 @@ Fig 2. City Hotel Bookings Cancellation Ratio
 Fig 3. Resort Hotel Bookings Cancellation Ratio 
 </p>
 
-Fig 2 & Fig 3 describe the cancellation ratio based on hotel. Both hotel show the cancellation percentage is lower than 50%. Resort hotel cancellation rate is 27.8% and City Hotel is higher at 41.8% which is considered high. The high cancellation rate in City Hotel is caused by high number of bookings also. Due to the close location from the residential area in the city, customer tends to book in City Hotel without long preparation and planning. On the opposite, Resort Hotel booking is usually planned well because of the distance to travel.
+<div align="justify"> Fig 2 & Fig 3 describe the cancellation ratio based on hotel. Both hotel show the cancellation percentage is lower than 50%. Resort hotel cancellation rate is 27.8% and City Hotel is higher at 41.8% which is considered high. The high cancellation rate in City Hotel is caused by high number of bookings also. Due to the close location from the residential area in the city, customer tends to book in City Hotel without long preparation and planning. On the opposite, Resort Hotel booking is usually planned well because of the distance to travel. </div>
 
 ![staying](assets/staying_duration.png)
 <div align="center"> Fig 4. Staying Duration Impact to Booking Cancellation Rate </div>
+
+<div align="justify"> Fig 4 shows the impact of staying duration to the booking cancellation rate based on each hotel types. Staying duration is categorized into 5 categories. Both hotels shows a similar pattern which is the longer stay duration, the higher cancellation rate. Except for the Resort Hotel with >4 weeks staying duration that has lower cancellation rate. City Hotel customer with >4 weeks staying duration has the highest cancellation rate for 90.9% which needs to be analyzed more to find the causes. The cancellation rate is highly influential to the business, thus it is necessary to improve this matter. </div>
