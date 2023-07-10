@@ -56,7 +56,7 @@ Fig 5. Lead Time Impact on Hotel Bookings Cancellation Rates
 </p>
 
 <div align="justify">
-  This analysis is done to understand the impact of Lead Time to bookings cancellation rate based on each hotels. Lead Time is the time interval between the booking and the time guest arrived. Lead time is categorized into months. City Hotel shows a significant increase of booking cancellation rate along with higher lead time with its peak at 12 months for more than 80%. This issue might be caused of the high activity of customers in the city, which caused unpredictable schedule especially in higher lead time. Meanwhile Resort Hotel does not show any significant influence due to lead time, it varies and peaked at 9 months for 50%. The best lead time shown is under 1 month for both hotels lower than 20%. Overall, lead time is more influential in City Hotel.
+  This analysis is done to understand the impact of Lead Time to bookings cancellation rate based on each hotels. Lead Time is the time interval between the booking and the time guest arrived. Lead time is categorized into months. City Hotel shows a significant increase of booking cancellation rate along with higher lead time with its peak at 12 months for more than 80%. This issue might be caused of the high activity of customers in the city, which caused unpredictable schedule especially in higher lead time. Meanwhile Resort Hotel does not show any significant influence due to lead time, it varies and peaked at 9 months for 50%. The best lead time shown is under 1 month for both hotels lower than 20%. Overall, lead time is more influential in City Hotel than Resort Hotel.
 </div>
 
 # Summary
